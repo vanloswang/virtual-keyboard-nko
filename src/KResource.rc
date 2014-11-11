@@ -1,0 +1,7 @@
+/** Kaïraba Cissé <ckairaba@gmail.com>
+*/
+#include <windows.h>
+// Application manifest.
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "KApplication.manifest"
+// Application icon.
+MY_ICON ICON "../pictures/virtual-keyboard-nko.ico"
